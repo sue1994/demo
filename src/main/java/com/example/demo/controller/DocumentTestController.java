@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author baseus
+ * @author
  */
 @RestController
 @RequestMapping("/documentTest")
